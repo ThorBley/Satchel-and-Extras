@@ -8,6 +8,15 @@ Satchel works seamlessly across platforms, providing a consistent experience on 
 
 It even has buttons! you can guide players to wherever he want!
 
+✨ Looks
+
+<img width="735" height="396" alt="Captura de tela 2026-02-23 175338" src="https://github.com/user-attachments/assets/fd107c77-9f7b-4b0a-b77b-ba33f0c7dfd9" />
+
+
+<img width="727" height="391" alt="Captura de tela 2026-02-23 175353" src="https://github.com/user-attachments/assets/c1e0af35-654f-4fec-8c8e-c2bef18f2e82" />
+
+
+
 📚 Documentation
 
 For more info, please visit the [Satchel Repo](https://github.com/ryanlua/satchel).
