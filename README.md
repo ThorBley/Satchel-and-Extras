@@ -22,6 +22,8 @@ Understand the system architecture
 
 Explore customization options
 
-If you find any issues while experimenting Extra Satchel, Feel free to leave a comment on the [Wiki](https://github.com/ThorBley/Satchel-and-Extras/wiki).
+If you need a question, please leave a comment on the [Wiki](https://github.com/ThorBley/Satchel-and-Extras/wiki)
 
-If you wanna know more about TopbarPlus, Please Visit The TopbarPlus [Page](https://1foreverhd.github.io/TopbarPlus/)
+If you find any issues while experimenting Extra Satchel, Feel free to leave a comment on the [Wiki](https://github.com/ThorBley/Satchel-and-Extras/wiki)
+
+If you wanna know more about TopbarPlus, Please Visit The TopbarPlus [Page](https://1foreverhd.github.io/TopbarPlus/).
